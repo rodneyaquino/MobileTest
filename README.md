@@ -15,3 +15,9 @@ Technology Stack consists of using the following:
 - Android SDK
 - Node.js
 - Java (JRE & JDK)
+
+Video | RobotFramework | Appium | Demo
+https://vimeo.com/242694064
+
+Test Suite Summary Report
+https://rawgit.com/rodneyaquino/MobileTest/master/index.html
