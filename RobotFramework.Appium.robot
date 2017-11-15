@@ -88,8 +88,8 @@ Test Case 1 : Addition : 5 plus 2
 	Clear Display
 
 
-Test Case 2 : Addition : 9 plus 9
-    [Documentation]  9 + 9 should equal 18
+Test Case 2 : Addition : 9 plus 8
+    [Documentation]  9 + 8 should equal 17
     [tags]  android     addition	2digits
 
     log     "STEP 1: Enter two digits to add"
